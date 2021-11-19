@@ -1,5 +1,7 @@
 # buyer
 
+提供一个手机端的商城前端，使用vue、mintui。。。
+
 ## Project setup
 ```
 npm install
